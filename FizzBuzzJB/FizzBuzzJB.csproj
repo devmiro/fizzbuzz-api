@@ -11,5 +11,6 @@
     <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
     <PackageReference Include="Microsoft.Extensions.Http" Version="6.0.0" />
     <PackageReference Include="Microsoft.Net.Http.Headers" Version="2.2.8" />
+    <PackageReference Include="System.Threading.Tasks" Version="4.3.0" />
   </ItemGroup>
 </Project>
